@@ -1,0 +1,9 @@
+<!DOCKTYPE html>
+<head><title></title></head>
+<body>
+
+<script>Alert('XSS')</script>
+<h1> PoC: Louck </h1>
+
+</body>
+</html>
